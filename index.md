@@ -12,6 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ![image](https://github.com/PintarIot/Blogs/blob/main/Yusuf%20CV%20map%203.pdf)
+![image](https://github.com/PintarIot/Blogs/blob/main/PHOTO-2020-12-16-20-15-38%20ORI.jpeg)
 ```markdown
 Syntax highlighted code block
 
