@@ -1,5 +1,9 @@
 ## Welcome to my Blog - an extention of my linkedIn and my past experiances in more depth
 
+I am compiling the projects and interests into three separate divisions namely Air, Land & Sea.
+These are over my 21 years of working - 17 in corporations and 4 in Indonesian Startups.
+
+
 You can use the [editor on GitHub](https://github.com/PintarIot/Blogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
