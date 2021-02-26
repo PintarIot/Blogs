@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-https://github.com/PintarIot/Blogs/blob/main/Yusuf%20CV%20map%203.pdf
+![image](https://github.com/PintarIot/Blogs/blob/main/Yusuf%20CV%20map%203.pdf)
 ```markdown
 Syntax highlighted code block
 
