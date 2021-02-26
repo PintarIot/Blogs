@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Blog - an extention of my linkedIn and my past experiances in more depth
 
 You can use the [editor on GitHub](https://github.com/PintarIot/Blogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
